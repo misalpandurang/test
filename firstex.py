@@ -1,3 +1,3 @@
 s="misal pandurang"
-
-print(s)
+a=input("Enter input")
+print(a)
